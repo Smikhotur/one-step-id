@@ -1,0 +1,39 @@
+@import './until/fonts';
+@import './until/mixins';
+@import './header';
+@import './nav';
+@import './footer';
+@import './home';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+html,
+body {
+  min-height: 100vh;
+}
+
+.App {
+  background: url(../image/backone.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}

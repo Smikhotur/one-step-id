@@ -1,0 +1,17 @@
+@mixin Font-Family-Bigilla {
+  font-family: Bigilla, sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+@mixin Font-Source-Sans-Pro-Regular {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@mixin Font-Source-Sans-Pro-Bold {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}

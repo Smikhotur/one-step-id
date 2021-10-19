@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 1440px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 30px 30px;
+
+  &__menu {
+    display: flex;
+    justify-content: space-between;
+  }
+}
