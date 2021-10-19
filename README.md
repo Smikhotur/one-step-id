@@ -1,4 +1,4 @@
-# Sumra Wallet
+# One Step Id
 
 - [DEMO LINK](https://Smikhotur.github.io/one-step-id/)
 
